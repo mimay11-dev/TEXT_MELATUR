@@ -27,7 +27,7 @@ with CMake, and its documents are saved as files in a folder selected by the use
 
 - **Dual Focus:** The sources cover both an architectural specification for a C++ data structures project (Sprint 1 - Planning and Design) and the technical/user guides for the **MiMachine** desktop application built with C++ and Slint.
 - **Core Purpose:** The system provides a simple text editor for inserting and deleting characters while ensuring operational reversibility through undo and redo features.
-- **Target Audience & Scope:** Aimed at students and general users needing lightweight text editing. The initial architectural scope focuses on in-memory text manipulation without advanced formatting such as custom fonts, colors, images, or collaborative editing.
+- **Scope:** The initial architectural scope focuses on in-memory text manipulation without advanced formatting such as custom fonts, colors, images, or collaborative editing.
 
 ---
 
